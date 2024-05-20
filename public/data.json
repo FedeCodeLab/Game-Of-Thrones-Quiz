@@ -1,0 +1,552 @@
+[
+    {
+        "id": 1,
+        "question": "¿Quién es el autor de la saga 'Canción de Hielo y Fuego' en la que se basa Game of Thrones?",
+        "answers": [
+            "J.R.R. Tolkien",
+            "George R.R. Martin",
+            "J.K. Rowling",
+            "Stephen King"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 2,
+        "question": "¿Cuál es el lema de la Casa Stark?",
+        "answers": [
+            "Hear Me Roar!",
+            "Fire and Blood",
+            "Winter is Coming",
+            "We Do Not Sow"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "¿Quién es conocido como el 'Rey en el Norte'?",
+        "answers": [
+            "Jon Snow",
+            "Robb Stark",
+            "Ned Stark",
+            "Bran Stark"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "¿Cuál es el nombre del lobo huargo de Jon Snow?",
+        "answers": [
+            "Nymeria",
+            "Ghost",
+            "Grey Wind",
+            "Summer"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "¿Qué ciudad es la capital de los Siete Reinos?",
+        "answers": [
+            "Winterfell",
+            "King's Landing",
+            "Oldtown",
+            "Casterly Rock"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "¿Quién es el padre de Daenerys Targaryen?",
+        "answers": [
+            "Robert Baratheon",
+            "Aerys II Targaryen",
+            "Rhaegar Targaryen",
+            "Viserys Targaryen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "¿Cómo se llama la espada de acero valyrio de Jon Snow?",
+        "answers": [
+            "Heartsbane",
+            "Ice",
+            "Longclaw",
+            "Oathkeeper"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "¿Quién mató a Joffrey Baratheon?",
+        "answers": [
+            "Tyrion Lannister",
+            "Oberyn Martell",
+            "Petyr Baelish",
+            "Olenna Tyrell"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 9,
+        "question": "¿Cuál es el nombre del bastardo de Ramsay Bolton?",
+        "answers": [
+            "Rickon Stark",
+            "Theon Greyjoy",
+            "Jon Snow",
+            "Roose Bolton"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "¿Quién es conocido como el 'Matarreyes'?",
+        "answers": [
+            "Jaime Lannister",
+            "Tywin Lannister",
+            "Bronn",
+            "Sandor Clegane"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 11,
+        "question": "¿Qué casa tiene como lema 'Ours is the Fury'?",
+        "answers": [
+            "Casa Targaryen",
+            "Casa Baratheon",
+            "Casa Greyjoy",
+            "Casa Martell"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 12,
+        "question": "¿Quién es el 'Caballero de las Flores'?",
+        "answers": [
+            "Loras Tyrell",
+            "Renly Baratheon",
+            "Barristan Selmy",
+            "Jorah Mormont"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "¿Cómo se llama el lugar donde viven los Maestres?",
+        "answers": [
+            "Winterfell",
+            "The Wall",
+            "King's Landing",
+            "Oldtown"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 14,
+        "question": "¿Quién es el fundador de la Casa Lannister?",
+        "answers": [
+            "Tywin Lannister",
+            "Lancel Lannister",
+            "Jaime Lannister",
+            "Lann el Astuto"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 15,
+        "question": "¿Quién entrena a Arya Stark en Braavos?",
+        "answers": [
+            "Jaqen H'ghar",
+            "Syrio Forel",
+            "The Hound",
+            "Daario Naharis"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "¿Cómo se llama la espada de acero valyrio de Brienne de Tarth?",
+        "answers": [
+            "Longclaw",
+            "Oathkeeper",
+            "Needle",
+            "Ice"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 17,
+        "question": "¿Quién es conocido como 'El Pez Negro'?",
+        "answers": [
+            "Brynden Tully",
+            "Edmure Tully",
+            "Hoster Tully",
+            "Samwell Tarly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 18,
+        "question": "¿Qué arma usa comúnmente Arya Stark?",
+        "answers": [
+            "Un arco",
+            "Una lanza",
+            "Una espada",
+            "Un hacha"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "¿Quién envenenó a Jon Arryn?",
+        "answers": [
+            "Cersei Lannister",
+            "Petyr Baelish",
+            "Lysa Arryn",
+            "Olenna Tyrell"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 20,
+        "question": "¿Qué batalla marca el final de la rebelión de Robert?",
+        "answers": [
+            "La Batalla de los Bastardos",
+            "La Batalla del Tridente",
+            "La Batalla de Blackwater",
+            "La Batalla de la Puerta de la Sangre"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 21,
+        "question": "¿Qué criatura mitológica representa a la Casa Targaryen?",
+        "answers": [
+            "Un dragón",
+            "Un lobo",
+            "Un león",
+            "Un ciervo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 22,
+        "question": "¿Quién es el 'Mano del Rey' al principio de la serie?",
+        "answers": [
+            "Eddard Stark",
+            "Robert Baratheon",
+            "Jaime Lannister",
+            "Jon Arryn"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 23,
+        "question": "¿Cuál es el verdadero nombre de 'Reek'?",
+        "answers": [
+            "Theon Greyjoy",
+            "Ramsay Bolton",
+            "Jojen Reed",
+            "Podrick Payne"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 24,
+        "question": "¿Quién es el padre de Gendry?",
+        "answers": [
+            "Stannis Baratheon",
+            "Renly Baratheon",
+            "Robert Baratheon",
+            "Ned Stark"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 25,
+        "question": "¿Qué personaje es conocido como 'La Reina de Espinas'?",
+        "answers": [
+            "Cersei Lannister",
+            "Margaery Tyrell",
+            "Olenna Tyrell",
+            "Ellaria Sand"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 26,
+        "question": "¿Quién mata a Tywin Lannister?",
+        "answers": [
+            "Jaime Lannister",
+            "Cersei Lannister",
+            "Tyrion Lannister",
+            "Arya Stark"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "¿Cómo se llama la fortaleza ancestral de la Casa Stark?",
+        "answers": [
+            "Harrenhal",
+            "Winterfell",
+            "Casterly Rock",
+            "Dragonstone"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 28,
+        "question": "¿Qué significa 'Valar Morghulis'?",
+        "answers": [
+            "Todos los hombres deben morir",
+            "La noche es oscura y llena de terrores",
+            "Fuego y sangre",
+            "Ours is the fury"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "¿Quién es el líder de los Caminantes Blancos?",
+        "answers": [
+            "El Rey de la Noche",
+            "El Señor de la Luz",
+            "El Comandante Mormont",
+            "El Cuervo de Tres Ojos"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 30,
+        "question": "¿Qué usaron los Lannister para destruir la flota de Stannis Baratheon?",
+        "answers": [
+            "Flechas",
+            "Dragones",
+            "Fuego valyrio",
+            "Catapultas"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 31,
+        "question": "¿Qué miembro de la Guardia de la Noche es conocido como el 'Rey Más Allá del Muro'?",
+        "answers": [
+            "Jon Snow",
+            "Tormund Giantsbane",
+            "Mance Rayder",
+            "Jeor Mormont"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 32,
+        "question": "¿Qué personaje dice la frase 'You know nothing, Jon Snow'?",
+        "answers": [
+            "Arya Stark",
+            "Daenerys Targaryen",
+            "Cersei Lannister",
+            "Ygritte"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 33,
+        "question": "¿Quién fue la primera esposa de Tyrion Lannister?",
+        "answers": [
+            "Sansa Stark",
+            "Shae",
+            "Tysha",
+            "Myranda"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 34,
+        "question": "¿Qué arma es efectiva contra los Caminantes Blancos?",
+        "answers": [
+            "Acero valyrio",
+            "Flechas de madera",
+            "Fuego de dragón",
+            "Hachas de piedra"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 35,
+        "question": "¿Quién entrena a los dragones de Daenerys?",
+        "answers": [
+            "Daario Naharis",
+            "Jorah Mormont",
+            "Missandei",
+            "Quentyn Martell"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 36,
+        "question": "¿Cómo se llama la hermana mayor de Sansa Stark?",
+        "answers": [
+            "Arya Stark",
+            "Lyanna Stark",
+            "Myrcella Baratheon",
+            "Ellaria Sand"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 37,
+        "question": "¿Cuál es el nombre del barco de Euron Greyjoy?",
+        "answers": [
+            "Silence",
+            "Black Wind",
+            "Iron Victory",
+            "Sea Bitch"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 38,
+        "question": "¿Qué región es gobernada por la Casa Martell?",
+        "answers": [
+            "The Reach",
+            "The Stormlands",
+            "Dorne",
+            "The Vale"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 39,
+        "question": "¿Qué criatura gigantesca reside en los túneles bajo la Fortaleza Roja?",
+        "answers": [
+            "Un dragón",
+            "Un lobo huargo",
+            "Un grifo",
+            "Un kraken"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 40,
+        "question": "¿Qué personaje es conocido por su habilidad con el arco?",
+        "answers": [
+            "Arya Stark",
+            "Bran Stark",
+            "Samwell Tarly",
+            "Ygritte"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 41,
+        "question": "¿Qué casa tiene como lema 'Fire and Blood'?",
+        "answers": [
+            "Casa Stark",
+            "Casa Targaryen",
+            "Casa Lannister",
+            "Casa Baratheon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 42,
+        "question": "¿Quién es conocido como el 'Perro'?",
+        "answers": [
+            "Gregor Clegane",
+            "Sandor Clegane",
+            "Tormund Giantsbane",
+            "Beric Dondarrion"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 43,
+        "question": "¿Qué personaje tiene el apodo de 'Littlefinger'?",
+        "answers": [
+            "Varys",
+            "Petyr Baelish",
+            "Eddard Stark",
+            "Renly Baratheon"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 44,
+        "question": "¿Quién mata a Oberyn Martell?",
+        "answers": [
+            "Gregor Clegane",
+            "Sandor Clegane",
+            "Tywin Lannister",
+            "Jaime Lannister"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 45,
+        "question": "¿Qué casa es conocida por sus habilidades marítimas y navales?",
+        "answers": [
+            "Casa Tyrell",
+            "Casa Arryn",
+            "Casa Greyjoy",
+            "Casa Frey"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 46,
+        "question": "¿Cuál es el nombre del gigante que ayuda a Jon Snow y los salvajes?",
+        "answers": [
+            "Wun Wun",
+            "Mag the Mighty",
+            "One Eye",
+            "Rattleshirt"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 47,
+        "question": "¿Quién es el Comandante de la Guardia de la Noche al principio de la serie?",
+        "answers": [
+            "Alliser Thorne",
+            "Jeor Mormont",
+            "Eddison Tollett",
+            "Benjen Stark"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 48,
+        "question": "¿Qué grupo terrorista usa el fuego valyrio para volar el Septo de Baelor?",
+        "answers": [
+            "Los Hijos del Hierro",
+            "La Hermandad Sin Estandartes",
+            "Los Hombres Sin Rostro",
+            "Los Gorriones"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 49,
+        "question": "¿Qué dios adoran los Hombres sin Rostro?",
+        "answers": [
+            "El Dios Ahogado",
+            "R'hllor",
+            "El Dios de Muchos Rostros",
+            "Los Antiguos Dioses"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 50,
+        "question": "¿Qué material es necesario para matar a un Caminante Blanco?",
+        "answers": [
+            "Acero valyrio",
+            "Vidriagón",
+            "Fuego de dragón",
+            "Hierro"
+        ],
+        "correctAnswer": 1
+    }
+]
