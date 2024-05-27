@@ -7,3 +7,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  overflow-x: hidden;
+  color: white;
+}
+
+.with-background {
+  position: relative;
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../public/got.webp");
+  background-size: cover;
+  background-position: center;
+  filter: brightness(40%);
+  z-index: -1;
+}
+
+@font-face {
+  font-family: "thrones";
+  src: url("../public/fonts/thrones.ttf") format("truetype");
+}
